@@ -15,3 +15,13 @@
    ![Total percentage of fares by city type](analysis/Fig5.png)
    ![Total percentage of rides count by city type](analysis/Fig6.png)
    ![Total percentage of driver count by city type](analysis/Fig7.png)
+
+## Challenge:
+
+### Overview:
+    
+   Based on the Scatter chart there were more rides in Urban followed by Suburban and Rural cities, also the plots looked much bigger based on the number of drivers in Urban followed by Suburban and Rural cities. One of the goals is to determine if there is any correlation between fares and rides count. The Box and a Whisker was good to see the outliers and it gave a perspective of one of the key metric either like rides count or fares or driver count by city type, but we missed a correlation how the fares did over a period of time. The second goal is to determine how the fares did over a period of time from Jan till Apr of 2019
+   
+### Analysis:
+
+   Understanding the correlation between fares and rides count would help you to see if fares had an impact on the rides and also if the driver's count is also changing based on that. In the PyBer case when we look at the data it seems the Urban cities there were more rides, drivers and also the fares seem to be down. For example, rides count in Urban was 2.5 times more than Suburban and 13 times more than Rural. A similar pattern is seen in drivers count in Urban cities which was approx. 5 times more than Suburban and 30 times more than Rural cities. Total fares also had a somewhat closer pattern in Urban cities which was 2 times more than Suburban and 9 times more than Rural cities. We could derive some similarities and patterns which could lead us to the partial conclusion that Fares had an impact in the rides count and drivers count. There is some missing information though, like population, percentage of the population used ride-sharing, distance traveled, is the places well connected through public transit, etc.![PyBer Summary Overview](images/PyBer_Summary_View.png)
